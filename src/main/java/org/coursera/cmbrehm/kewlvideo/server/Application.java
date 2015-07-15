@@ -15,7 +15,7 @@
  * limitations under the License.
  * 
  */
-package org.magnum.dataup;
+package org.coursera.cmbrehm.kewlvideo.server;
 
 import javax.servlet.MultipartConfigElement;
 
@@ -37,7 +37,7 @@ import org.springframework.context.annotation.Configuration;
 @Configuration
 public class Application {
 
-	private static final String MAX_REQUEST_SIZE = "150MB";
+	private static final String MAX_REQUEST_SIZE = "50MB";
 
 	// The entry point to the application.
 	public static void main(String[] args) {

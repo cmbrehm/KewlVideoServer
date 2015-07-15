@@ -15,7 +15,7 @@
  * limitations under the License.
  * 
  */
-package org.magnum.dataup;
+package org.coursera.cmbrehm.kewlvideo.server;
 
 import java.io.IOException;
 import java.io.InputStream;
@@ -30,9 +30,9 @@ import java.util.concurrent.atomic.AtomicLong;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-import org.magnum.dataup.model.Video;
-import org.magnum.dataup.model.VideoStatus;
-import org.magnum.dataup.model.VideoStatus.VideoState;
+import org.coursera.cmbrehm.kewlvideo.server.model.Video;
+import org.coursera.cmbrehm.kewlvideo.server.model.VideoStatus;
+import org.coursera.cmbrehm.kewlvideo.server.model.VideoStatus.VideoState;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Controller;

@@ -15,7 +15,7 @@
  * limitations under the License.
  * 
  */
-package org.magnum.dataup;
+package org.coursera.cmbrehm.kewlvideo.server;
 
 /**
  *                       DO NOT MODIFY THIS INTERFACE
@@ -44,8 +44,8 @@ package org.magnum.dataup;
  */
 import java.util.Collection;
 
-import org.magnum.dataup.model.Video;
-import org.magnum.dataup.model.VideoStatus;
+import org.coursera.cmbrehm.kewlvideo.server.model.Video;
+import org.coursera.cmbrehm.kewlvideo.server.model.VideoStatus;
 
 import retrofit.client.Response;
 import retrofit.http.Body;

@@ -15,7 +15,7 @@
  * limitations under the License.
  * 
  */
-package org.magnum.dataup;
+package org.coursera.cmbrehm.kewlvideo.server;
 
 import java.io.FileNotFoundException;
 import java.io.IOException;
@@ -26,7 +26,7 @@ import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.nio.file.StandardCopyOption;
 
-import org.magnum.dataup.model.Video;
+import org.coursera.cmbrehm.kewlvideo.server.model.Video;
 
 /**
  * This class provides a simple implementation to store video binary

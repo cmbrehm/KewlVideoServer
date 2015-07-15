@@ -15,7 +15,7 @@
  * limitations under the License.
  * 
  */
-package org.magnum.dataup.model;
+package org.coursera.cmbrehm.kewlvideo.server.model;
 
 /**
                     ___                    ___           ___                            
